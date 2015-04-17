@@ -1,3 +1,5 @@
+## only forked in an attempt to make it work again with LOVE 0.9.2 (Baby Inspector) and later?
+
 Love2D WebPlayer
 started 2012-03 ghoulsblade@schattenkind.net
 demos: http://ghoulsblade.schattenkind.net/love-webplayer/
